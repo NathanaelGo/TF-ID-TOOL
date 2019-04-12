@@ -531,7 +531,7 @@ dial telephone
 diaper
 digital clock
 digital watch
-dining table
+dining taable 12345678
 dishrag
 dishwasher
 disk brake
@@ -562,7 +562,7 @@ folding chair
 football helmet
 forklift
 fountain
-fountain pen
+fountain pen 00000006
 four-poster
 freight car
 French horn
@@ -586,7 +586,7 @@ guillotine
 hair slide
 hair spray
 half track
-hammer
+hammer 00000001
 hamper
 hand blower
 hand-held computer
@@ -622,7 +622,7 @@ lampshade
 laptop
 lawn mower
 lens cap
-letter opener
+letter opener 12345678
 library
 lifeboat
 lighter
@@ -783,7 +783,7 @@ schooner
 scoreboard
 screen
 screw
-screwdriver
+screwdriver 00000002
 seat belt
 sewing machine
 shield

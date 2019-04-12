@@ -34,7 +34,7 @@ public class CameraActivity extends Activity {
           .replace(R.id.container, Camera2BasicFragment.newInstance())
           .commit();
     }
-      Button homePageBtn = (Button)findViewById(R.id.homePageBtn);
+      //Button homePageBtn = (Button)findViewById(R.id.homePageBtn);
 
 /*
       homePageBtn.setOnClickListener(new View.OnClickListener() {

@@ -36,13 +36,6 @@
         android:orientation="vertical"
         android:weightSum="100">
 
-        <Button
-            android:id="@+id/homePageBtn"
-            android:layout_width="match_parent"
-            android:layout_height="wrap_content"
-            android:layout_weight="30"
-            android:text="homePageBtn" />
-
         <ImageView
             android:id="@+id/logoview2"
             android:layout_width="wrap_content"

@@ -507,14 +507,14 @@ coffee mug
 coffeepot
 coil
 combination lock
-computer keyboard
+computer keyboard 0007
 confectionery
 container ship
 convertible
 corkscrew
 cornet
-cowboy boot
-cowboy hat
+cowboy boot 0009
+cowboy hat 0008
 cradle
 crane
 crash helmet
@@ -562,7 +562,7 @@ folding chair
 football helmet
 forklift
 fountain
-fountain pen
+fountain pen 0006
 four-poster
 freight car
 French horn
@@ -586,7 +586,7 @@ guillotine
 hair slide
 hair spray
 half track
-hammer
+hammer 0001
 hamper
 hand blower
 hand-held computer
@@ -783,7 +783,7 @@ schooner
 scoreboard
 screen
 screw
-screwdriver
+screwdriver 0002
 seat belt
 sewing machine
 shield
