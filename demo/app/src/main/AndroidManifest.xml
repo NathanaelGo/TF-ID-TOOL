@@ -15,10 +15,10 @@
         android:label="@string/app_name"
         android:theme="@style/MaterialTheme">
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.android.tflitecamerademo.MainActivity"
             android:label="@string/title_activity_main"></activity>
         <activity
-            android:name=".CameraActivity"
+            android:name="com.example.android.tflitecamerademo.CameraActivity"
             android:label="@string/app_name"
             android:screenOrientation="portrait">
             <intent-filter>
